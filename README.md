@@ -1,5 +1,8 @@
-![image](https://github.com/LogeshwarTheDataIntellect/YouTube-API-Data-Project/assets/104715001/892caf3f-c3e9-4f15-8f54-303abaaa06fe)# YouTube-API-Data-Project
+# YouTube-API-Data-Project
 An in-depth analysis of 'Alex The Analyst' YouTube channel, focusing on viewer engagement metrics. We explored correlations between video features and audience interaction, utilizing sentiment analysis and engagement trends to gain insights for content optimization and audience preferences.
+
+![image](https://github.com/LogeshwarTheDataIntellect/YouTube-API-Data-Project/assets/104715001/9aaac3f7-779d-44dd-ade3-471820582c03)
+
 
 Title
 🌟Channel Chalkboard: Analyzing  
